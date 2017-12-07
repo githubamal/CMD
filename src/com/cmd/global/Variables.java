@@ -3,7 +3,7 @@ package com.cmd.global;
 public class Variables {
 	
 	/**
-	 * MySQL JDBC Connection
+	 * MySQL JDBC Connection //Windows
 	 */
 	public static String dataBasePort = ""; //To set the DB port alwayse use ':' first like: ":3306"
 	
@@ -12,4 +12,10 @@ public class Variables {
 	public static String dataBaseUsername = "root";
 	
 	public static String dataBasePassword = "";
+	
+	
+	/**
+	 * MySQL JDBC Connection //Mac
+	 */
+	
 }
